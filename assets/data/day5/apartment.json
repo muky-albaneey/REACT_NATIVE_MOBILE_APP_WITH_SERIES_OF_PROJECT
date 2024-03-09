@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "latitude": 6.5244,
+    "longitude": 3.3792,
+    "title": "Luxury Apartment in Lagos",
+    "description": "A spacious and modern apartment located in the heart of Lagos. Close to shopping centers, restaurants, and nightlife.",
+    "price": 150,
+    "numberOfStars": 4,
+    "rating": 8.5,
+    "image": "https://th.bing.com/th/id/R.a826fde112894b5b4ae7e3415671df56?rik=O4cs6wmN7FUG%2fA&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "2",
+    "latitude": 7.4445,
+    "longitude": 3.8954,
+    "title": "Cozy Apartment in Abuja",
+    "description": "A cozy apartment with stunning views of the city. Ideal for business travelers or tourists exploring Abuja.",
+    "price": 100,
+    "numberOfStars": 3,
+    "rating": 7.2,
+    "image": "https://admin.freetour.com/images/tours/18358/abuja-city-tour-03.jpg"
+  },
+  {
+    "id": "3",
+    "latitude": 10.3157,
+    "longitude": 9.7417,
+    "title": "Beachfront Villa in Kano",
+    "description": "Experience luxury living in this beautiful beachfront villa. Perfect for a relaxing getaway or family vacation.",
+    "price": 300,
+    "numberOfStars": 5,
+    "rating": 9.8,
+    "image": "https://th.bing.com/th/id/R.1d7a363198b2bba7795d76a282f3b307?rik=KKbcw6Re23KdvQ&pid=ImgRaw&r=0"
+  },
+  {
+    "id": "4",
+    "latitude": 10.3157,
+    "longitude": 9.7417,
+    "title": "Beachfront Villa in Calabar",
+    "description": "Experience luxury living in this beautiful beachfront villa. Perfect for a relaxing getaway or family vacation.",
+    "price": 300,
+    "numberOfStars": 5,
+    "rating": 9.8,
+    "image": "https://th.bing.com/th/id/R.c7d81b29d5d3677168786ab036549580?rik=LNTBCc7nL0WMOw&pid=ImgRaw&r=0"
+  }
+]
